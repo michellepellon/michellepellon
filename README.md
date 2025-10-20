@@ -50,6 +50,7 @@ my blog. Check out some recent articles:
 
 - [A Case for Digital National Parks](https://michellepellon.com/blog/2025-08-18-a-case-for-digital-national-parks)
 - [AI-Facilitated Delusional Ideation: Rethinking "AI Psychosis"](https://michellepellon.com/blog/2025-08-24-ai-facilitated-delusional-ideation)
+- [Claude Skills in the Enterprise](https://michellepellon.com/blog/2025-10-20-claude-skills-in-the-enterprise)
 
 ### 📫 Let's Connect!
 

@@ -18,7 +18,7 @@ intelligence.
 - Director, DevOps, PracticeTake (2022 - 2024)
 - Consultant, Energy & Healthcare Sectors (2021 - 2022)
 - VP - Information Technology, iOFFICE (2019 - 2021)
-- Various roles in information technology, cybersecurity, and DevOps (2008 - 2019)
+- Various roles in Information Technology, Cybersecurity, and DevOps (2008 - 2019)
 
 ### 🛠 Skills
 
